@@ -1,0 +1,49 @@
+.nav-content{
+   display: flex;
+   flex-direction: row;
+}
+.book-image{
+   height:160px;
+   width: 150px;
+   padding:3px;
+   margin-bottom: -5px;
+}
+.text-uppercase{
+   margin-top: 50px;
+   margin-left: 10px;
+}
+.menu-icon{
+  margin-left:1100px ;
+}
+.navbar-collapse{
+   position: fixed;
+   right: 0;
+   top: 0;
+   z-index: 10;
+   background-color: var(--black-color);
+   height: 100%;
+   width: 280px;
+   display: flex;
+   padding: 10rem 30rem 0 3rem;
+   transform: translatex(100%);
+   transition: var(--transition);
+   
+}
+
+.navbar-toggler-btn{
+    transition: var(--transition);
+    z-index: 11;
+}
+
+.show-navbar-collapse{
+    transform: translateX(0);
+}
+.nav-item{
+    margin-bottom: 1.4rem;
+}
+.nav-link{
+    transition: var(--transition);
+}
+.nav-link:hover{
+    color: var(--purple-color);
+}
