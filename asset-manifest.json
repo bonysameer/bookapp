@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/bookapp/static/css/main.b1ae64ef.css",
+    "main.js": "/bookapp/static/js/main.7e177623.js",
+    "static/media/pexels-karolina-grabowska-6256202.jpg": "/bookapp/static/media/pexels-karolina-grabowska-6256202.b746bbd98439eea82046.jpg",
+    "static/media/book.png": "/bookapp/static/media/book.23dea22f5c929345dd44.png",
+    "index.html": "/bookapp/index.html",
+    "main.b1ae64ef.css.map": "/bookapp/static/css/main.b1ae64ef.css.map",
+    "main.7e177623.js.map": "/bookapp/static/js/main.7e177623.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b1ae64ef.css",
+    "static/js/main.7e177623.js"
+  ]
+}
